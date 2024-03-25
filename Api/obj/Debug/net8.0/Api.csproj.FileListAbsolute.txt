@@ -59,3 +59,14 @@ D:\Development Repos\Facilitate\Api\obj\Debug\net8.0\refint\Api.dll
 D:\Development Repos\Facilitate\Api\obj\Debug\net8.0\Api.pdb
 D:\Development Repos\Facilitate\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 D:\Development Repos\Facilitate\Api\obj\Debug\net8.0\ref\Api.dll
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.sourcelink.json
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.dll
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\refint\Api.dll
+D:\Development Repos\Facilitate-Backend\Api\obj\Debug\net8.0\Api.pdb
