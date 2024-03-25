@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wIUuDd6B1i7l0rjqfCmkoa4dOv/Xb2r+MDeC5/5c3c853M9QrLErqelg3qi4rPjcVdTkO8by3tMStnzML29IA==",
+  "dgSpecHash": "xGIeqA+HV3A+47kCVpR14OhZj+K6pXgyDytpl9Nw7AIosP8P9sAjiRvD8abvysQz2tsFtJoLDYDx+D8wWZWNCQ==",
   "success": true,
-  "projectFilePath": "D:\\Development Repos\\Facilitate-BU\\Api\\Api.csproj",
+  "projectFilePath": "D:\\Development Repos\\Facilitate-Backend\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\aspnetcorecompatibility\\1.1.0\\aspnetcorecompatibility.1.1.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
