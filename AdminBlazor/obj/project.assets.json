@@ -8185,11 +8185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\AdminBlazor.csproj",
+      "projectUniqueName": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\AdminBlazor.csproj",
       "projectName": "AdminBlazor",
-      "projectPath": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\AdminBlazor.csproj",
+      "projectPath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\AdminBlazor.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\obj\\",
+      "outputPath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -8212,8 +8212,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj": {
-              "projectPath": "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj"
+            "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj": {
+              "projectPath": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj"
             }
           }
         }

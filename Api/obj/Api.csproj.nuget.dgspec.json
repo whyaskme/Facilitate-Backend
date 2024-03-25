@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development Repos\\Facilitate-BU\\Api\\Api.csproj": {}
+    "D:\\Development Repos\\Facilitate-Backend\\Api\\Api.csproj": {}
   },
   "projects": {
-    "D:\\Development Repos\\Facilitate-BU\\Api\\Api.csproj": {
+    "D:\\Development Repos\\Facilitate-Backend\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development Repos\\Facilitate-BU\\Api\\Api.csproj",
+        "projectUniqueName": "D:\\Development Repos\\Facilitate-Backend\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "D:\\Development Repos\\Facilitate-BU\\Api\\Api.csproj",
+        "projectPath": "D:\\Development Repos\\Facilitate-Backend\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\Development Repos\\Facilitate-BU\\Api\\obj\\",
+        "outputPath": "D:\\Development Repos\\Facilitate-Backend\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
@@ -34,8 +34,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj": {
-                "projectPath": "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj"
+              "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj": {
+                "projectPath": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj": {
+    "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj",
+        "projectUniqueName": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj",
         "projectName": "Libraries",
-        "projectPath": "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj",
+        "projectPath": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\Development Repos\\Facilitate-BU\\Libraries\\obj\\",
+        "outputPath": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"

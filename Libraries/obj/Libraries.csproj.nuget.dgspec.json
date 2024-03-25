@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj": {}
+    "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj": {}
   },
   "projects": {
-    "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj": {
+    "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj",
+        "projectUniqueName": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj",
         "projectName": "Libraries",
-        "projectPath": "D:\\Development Repos\\Facilitate-BU\\Libraries\\Libraries.csproj",
+        "projectPath": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\Libraries.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\Development Repos\\Facilitate-BU\\Libraries\\obj\\",
+        "outputPath": "D:\\Development Repos\\Facilitate-Backend\\Libraries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
