@@ -1,0 +1,641 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\AdminBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\FONT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\FONT-LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\ICON-LICENSE.txt",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\ICON-LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\docs\\templates\\agreements\\FACILITATE - Workflow and Subsequent Document Requirements.pdf",
+      "PackagePath": "staticwebassets\\docs\\templates\\agreements\\FACILITATE - Workflow and Subsequent Document Requirements.pdf"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\301.jpg",
+      "PackagePath": "staticwebassets\\images\\301.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\5de07672d41434a110cf999c_RRS.001.jpeg",
+      "PackagePath": "staticwebassets\\images\\5de07672d41434a110cf999c_RRS.001.jpeg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\5fd6fdbb56f666219ed52764_DimensionalRoD07aR03aP01ZL_mdm.jpg",
+      "PackagePath": "staticwebassets\\images\\5fd6fdbb56f666219ed52764_DimensionalRoD07aR03aP01ZL_mdm.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Backgrounds\\Contractors BG - YouTube.jpg",
+      "PackagePath": "staticwebassets\\images\\Backgrounds\\Contractors BG - YouTube.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Backgrounds\\Contractors.webp",
+      "PackagePath": "staticwebassets\\images\\Backgrounds\\Contractors.webp"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\301.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\301.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\638071295346754885_College-Station-Fencing-Fencing-Contractor.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\638071295346754885_College-Station-Fencing-Fencing-Contractor.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\736608334.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\736608334.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Categories.psd",
+      "PackagePath": "staticwebassets\\images\\Categories\\Categories.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Contractors.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Contractors.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\DJI_0371-1920x580.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\DJI_0371-1920x580.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Fencing (2).jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Fencing (2).jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Fencing.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Fencing.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Garage Door.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Garage Door.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Gutter-Homeowner.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Gutter-Homeowner.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Gutters.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Gutters.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Local-Roofing-Contractor-01.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Local-Roofing-Contractor-01.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Materials.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Materials.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Overhead-Door-Installation.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Overhead-Door-Installation.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Painting.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Painting.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Project Managers.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Project Managers.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Roofing.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Roofing.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Siding.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Siding.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Solar.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Solar.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\Windows.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\Windows.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\replacement-contractor-hero.jpeg",
+      "PackagePath": "staticwebassets\\images\\Categories\\replacement-contractor-hero.jpeg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\vinyl-siding-contractors.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\vinyl-siding-contractors.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\what-is-a-construction-project-manager-and-how-to-build-a-career-in-project-management.webp",
+      "PackagePath": "staticwebassets\\images\\Categories\\what-is-a-construction-project-manager-and-how-to-build-a-career-in-project-management.webp"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Categories\\what_does_a_solar_installer_do.jpg",
+      "PackagePath": "staticwebassets\\images\\Categories\\what_does_a_solar_installer_do.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Favicon.zip",
+      "PackagePath": "staticwebassets\\images\\Favicon.zip"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Favicon\\Favicon Original.ico",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Favicon Original.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Favicon\\Favicon Transparent.ico",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Favicon Transparent.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Favicon\\Wordpress Transparent.png",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Wordpress Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Favicon\\Wordpress.png",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Wordpress.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Contractors.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Contractors.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Fencing.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Fencing.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Garage Doors.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Garage Doors.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Groups.psd",
+      "PackagePath": "staticwebassets\\images\\Groups\\Groups.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Gutters.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Gutters.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Homeowners.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Homeowners.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Painting.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Painting.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Project Managers.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Project Managers.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Roofing Companies.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Roofing Companies.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Siding.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Siding.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Smart-Decision.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Smart-Decision.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Solar.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Solar.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Texas Project Managers.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Texas Project Managers.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Texas Roofing Contractors.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Texas Roofing Contractors.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Groups\\Windows.jpg",
+      "PackagePath": "staticwebassets\\images\\Groups\\Windows.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Fencing.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Fencing.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Garage Doors.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Garage Doors.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Gutters.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Gutters.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Header.psd",
+      "PackagePath": "staticwebassets\\images\\Headers\\Header.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Homeowners.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Homeowners.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Painters.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Painters.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Project Managers.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Project Managers.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Roofing Companies.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Roofing Companies.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Roofing Crews.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Roofing Crews.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Siding.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Siding.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Solar.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Solar.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Headers\\Windows.jpg",
+      "PackagePath": "staticwebassets\\images\\Headers\\Windows.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\Facebook.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\Facebook.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\LinkedIn.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\LinkedIn.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\Magnifying Glass.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\Magnifying Glass.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\Magnifying Glass.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\Magnifying Glass.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\Product-Magnification-Glass.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\Product-Magnification-Glass.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\Social Icons.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\Social Icons.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\Social Icons.psd",
+      "PackagePath": "staticwebassets\\images\\Icons\\Social Icons.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\Twitter.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\Twitter.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\YouTube.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\YouTube.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Icons\\magnifier-2.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\magnifier-2.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facebook App.jpg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facebook App.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Ico - Admin Profile Photo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Ico - Admin Profile Photo.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Ico.jpg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Ico.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Ico.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Ico.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Ico.psd",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Ico.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Logo.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Logo.psd",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Logo.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Grayscale Transparent.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Grayscale Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Original Logo Symbol.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Original Logo Symbol.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Original Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Original Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\Transparent Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Transparent Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\White Transparent - Small.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\White Transparent - Small.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Logos\\White Transparent.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\White Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Favicon Original.ico",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Favicon Original.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Favicon Transparent.ico",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Favicon Transparent.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Grayscale Transparent.png",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Grayscale Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Original Logo Symbol.png",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Original Logo Symbol.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Original Logo.png",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Original Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Transparent Logo.png",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Transparent Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\White Transparent.png",
+      "PackagePath": "staticwebassets\\images\\New Logos\\White Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Wordpress Transparent.png",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Wordpress Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\New Logos\\Wordpress.png",
+      "PackagePath": "staticwebassets\\images\\New Logos\\Wordpress.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\PNG Logo Files.zip",
+      "PackagePath": "staticwebassets\\images\\PNG Logo Files.zip"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\PNG Logo Files\\Facilitate Logo.png",
+      "PackagePath": "staticwebassets\\images\\PNG Logo Files\\Facilitate Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\PNG Logo Files\\Grayscale Transparent.png",
+      "PackagePath": "staticwebassets\\images\\PNG Logo Files\\Grayscale Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\PNG Logo Files\\Original Logo Symbol.png",
+      "PackagePath": "staticwebassets\\images\\PNG Logo Files\\Original Logo Symbol.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\PNG Logo Files\\Original Logo.png",
+      "PackagePath": "staticwebassets\\images\\PNG Logo Files\\Original Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\PNG Logo Files\\Transparent Logo.png",
+      "PackagePath": "staticwebassets\\images\\PNG Logo Files\\Transparent Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Products\\Image not available.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\Image not available.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Products\\Products.psd",
+      "PackagePath": "staticwebassets\\images\\Products\\Products.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\SVG Vector Files.zip",
+      "PackagePath": "staticwebassets\\images\\SVG Vector Files.zip"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\SVG Vector Files\\Grayscale Transparent.svg",
+      "PackagePath": "staticwebassets\\images\\SVG Vector Files\\Grayscale Transparent.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\SVG Vector Files\\Original Logo.svg",
+      "PackagePath": "staticwebassets\\images\\SVG Vector Files\\Original Logo.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\SVG Vector Files\\Transparent Logo.svg",
+      "PackagePath": "staticwebassets\\images\\SVG Vector Files\\Transparent Logo.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Site Before Crash.jpg",
+      "PackagePath": "staticwebassets\\images\\Site Before Crash.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit.zip",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit.zip"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Etsy\\Etsy Big Shop Banner.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Etsy\\Etsy Big Shop Banner.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Etsy\\Etsy Cover Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Etsy\\Etsy Cover Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Etsy\\Etsy Mini Shop Banner.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Etsy\\Etsy Mini Shop Banner.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Etsy\\Etsy Profile Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Etsy\\Etsy Profile Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Etsy\\Etsy Shop Icon.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Etsy\\Etsy Shop Icon.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Facebook\\Facebook Cover Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Facebook\\Facebook Cover Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Facebook\\Facebook Profile Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Facebook\\Facebook Profile Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Instagram\\Instagram Profile Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Instagram\\Instagram Profile Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\LinkedIn\\LinkedIn Background Photo.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\LinkedIn\\LinkedIn Background Photo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\LinkedIn\\LinkedIn Company Logo.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\LinkedIn\\LinkedIn Company Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\LinkedIn\\LinkedIn Cover Photo.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\LinkedIn\\LinkedIn Cover Photo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Pinterest\\Pinterest Profile Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Pinterest\\Pinterest Profile Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Twitter\\Twitter Header Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Twitter\\Twitter Header Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Twitter\\Twitter Profile Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Twitter\\Twitter Profile Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Youtube\\Youtube Cover Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Youtube\\Youtube Cover Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Social Media Kit\\Youtube\\Youtube Profile Image.png",
+      "PackagePath": "staticwebassets\\images\\Social Media Kit\\Youtube\\Youtube Profile Image.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Theme Purchase.jpg",
+      "PackagePath": "staticwebassets\\images\\Theme Purchase.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Theme Purchase.psd",
+      "PackagePath": "staticwebassets\\images\\Theme Purchase.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Understanding-Roof-Inspection-Costs.jpg",
+      "PackagePath": "staticwebassets\\images\\Understanding-Roof-Inspection-Costs.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\Zoom Backgrounds.zip",
+      "PackagePath": "staticwebassets\\images\\Zoom Backgrounds.zip"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\back.svg",
+      "PackagePath": "staticwebassets\\images\\back.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\cards.svg",
+      "PackagePath": "staticwebassets\\images\\cards.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\close.svg",
+      "PackagePath": "staticwebassets\\images\\close.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\counter.svg",
+      "PackagePath": "staticwebassets\\images\\counter.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\demos.svg",
+      "PackagePath": "staticwebassets\\images\\demos.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\doc.svg",
+      "PackagePath": "staticwebassets\\images\\doc.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\home.svg",
+      "PackagePath": "staticwebassets\\images\\home.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\menu.svg",
+      "PackagePath": "staticwebassets\\images\\menu.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\roofing-removal.jpeg",
+      "PackagePath": "staticwebassets\\images\\roofing-removal.jpeg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\rooftop-safety-contractor-1200x600.jpg",
+      "PackagePath": "staticwebassets\\images\\rooftop-safety-contractor-1200x600.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate-BU\\AdminBlazor\\wwwroot\\images\\weather.svg",
+      "PackagePath": "staticwebassets\\images\\weather.svg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.AdminBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.AdminBlazor.props",
+      "PackagePath": "build\\AdminBlazor.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminBlazor.props",
+      "PackagePath": "buildMultiTargeting\\AdminBlazor.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdminBlazor.props",
+      "PackagePath": "buildTransitive\\AdminBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

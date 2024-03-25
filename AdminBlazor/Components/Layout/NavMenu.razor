@@ -1,0 +1,51 @@
+﻿<div id="sidebar">
+    <DxGridLayout CssClass="page-layout" RowSpacing="1.5rem">
+        <Rows>
+            <DxGridLayoutRow Areas="header menu-button" Height="auto"></DxGridLayoutRow>
+            <DxGridLayoutRow Areas="navigation navigation"></DxGridLayoutRow>
+            <DxGridLayoutRow Areas="footer footer" Height="auto"></DxGridLayoutRow>
+        </Rows>
+        <Columns>
+            <DxGridLayoutColumn></DxGridLayoutColumn>
+            <DxGridLayoutColumn Width="auto"></DxGridLayoutColumn>
+        </Columns>
+        <Items>
+            <DxGridLayoutItem Area="header" CssClass="sidebar-header">
+                <Template>
+                    <img class="logo-header" src="/images/Logos/White Transparent - Small.png" alt="Facilitate.org Logo" />
+                </Template>
+            </DxGridLayoutItem>
+            <DxGridLayoutItem Area="menu-button" CssClass="sidebar-header menu-button-container">
+                <Template>
+                    <div class="menu-button" onclick="document.getElementById('sidebar').classList.toggle('expanded')"></div>
+                </Template>
+            </DxGridLayoutItem>
+            <DxGridLayoutItem Area="navigation" CssClass="layout-item">
+                <Template>
+                    <div onclick="document.getElementById('sidebar').classList.remove('expanded')">
+                        <DxMenu Orientation="@Orientation.Vertical" CssClass="menu">
+                            <Items>
+                                <DxMenuItem NavigateUrl="/" Text="Home" CssClass="menu-item" IconCssClass="icon home-icon"></DxMenuItem>
+                                @* <DxMenuItem NavigateUrl="/getclientip" Text="Get My IP" CssClass="menu-item" IconCssClass="icon counter-icon"></DxMenuItem> *@
+                                <DxMenuItem NavigateUrl="/leads" Text="Leads" CssClass="menu-item" IconCssClass="icon counter-icon"></DxMenuItem>
+                                <DxMenuItem NavigateUrl="/opportunities" Text="Opportunities" CssClass="menu-item" IconCssClass="icon counter-icon"></DxMenuItem>
+                                <DxMenuItem NavigateUrl="/customers" Text="Customers" CssClass="menu-item" IconCssClass="icon counter-icon"></DxMenuItem>
+                                <DxMenuItem NavigateUrl="/archives" Text="Archives" CssClass="menu-item" IconCssClass="icon counter-icon"></DxMenuItem>
+                                <DxMenuItem NavigateUrl="https://facilitate.org" Target="_blank" Text="Facilitate.org" CssClass="menu-item"></DxMenuItem>
+                                <DxMenuItem NavigateUrl="https://api.facilitate.org/swagger" Target="_blank" Text="Webservices" CssClass="menu-item"></DxMenuItem>
+                                <DxMenuItem NavigateUrl="https://docs.devexpress.com/Blazor/400725/blazor-components" Target="_blank" Text="DevXpress Docs" CssClass="icon docs-icon"></DxMenuItem>
+                            </Items>
+                        </DxMenu>
+                    </div>
+                </Template>
+            </DxGridLayoutItem>
+            <DxGridLayoutItem Area="footer" CssClass="footer">
+                <Template>
+@*                   <NavLink href="https://docs.devexpress.com/Blazor/400725/blazor-components" class="button-link">
+                    <DxButton Text="Docs" RenderStyleMode="@ButtonRenderStyleMode.Text" Target="_blank" CssClass="footer-button" RenderStyle="@ButtonRenderStyle.Light" IconCssClass="icon docs-icon"></DxButton>
+                  </NavLink> *@
+                </Template>
+            </DxGridLayoutItem>
+        </Items>
+    </DxGridLayout>
+</div>

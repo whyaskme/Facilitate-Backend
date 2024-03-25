@@ -1,0 +1,284 @@
+/* _content/AdminBlazor/Components/Layout/MainLayout.razor.rz.scp.css */
+.page[b-dhxbd265eb] {
+    height: 100%;
+    font-family: var(--bs-font-sans-serif);
+}
+
+[b-dhxbd265eb] .icon-back {
+    -webkit-mask-image: url("images/back.svg");
+    mask-image: url("images/back.svg");
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-color: var(--dxbl-btn-color);
+}
+
+[b-dhxbd265eb] .content {
+    overflow: auto;
+}
+
+[b-dhxbd265eb] .back-button:hover .icon-back {
+    background-color: var(--dxbl-btn-hover-color);
+}
+
+@media (max-width: 768px) {
+    [b-dhxbd265eb] .layout-sidebar {
+        grid-area: header / header / header / header !important;
+    }
+}
+/* _content/AdminBlazor/Components/Layout/NavMenu.razor.rz.scp.css */
+#sidebar[b-phoh5pkf3n] {
+    min-width: 15rem;
+    max-width: 15rem;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.16);
+    transition: transform 0.1s ease-out;
+    height: 100%;
+    max-height: 100%;
+    background-image: linear-gradient(180deg, var(--bs-primary) 0%, var(--bs-black) 150%);
+}
+
+[b-phoh5pkf3n] .sidebar-header {
+    padding: 2rem 1rem;
+}
+
+.logo[b-phoh5pkf3n] {
+    text-align: center;
+}
+
+[b-phoh5pkf3n] .menu-button-container {
+    display: none;
+    align-self: center;
+}
+
+.menu-button[b-phoh5pkf3n] {
+    padding: 0.375rem;
+    width: 1.875rem;
+    height: 1.875rem;
+    background-image: url("images/menu.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+[b-phoh5pkf3n] .menu {
+    background-color: inherit;
+}
+
+    [b-phoh5pkf3n] .menu .dxbl-menu-item-list {
+        gap: 0.5rem;
+    }
+
+[b-phoh5pkf3n] .menu-item {
+    color: var(--bs-white);
+}
+
+[b-phoh5pkf3n] .icon {
+    width: 1rem;
+    height: 1rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 0.5rem;
+}
+
+[b-phoh5pkf3n] .home-icon {
+    background-image: url("images/home.svg");
+}
+
+[b-phoh5pkf3n] .weather-icon {
+    background-image: url("images/weather.svg");
+}
+
+[b-phoh5pkf3n] .counter-icon {
+    background-image: url("images/counter.svg");
+}
+
+[b-phoh5pkf3n] .docs-icon {
+    mask-image: url("images/doc.svg");
+    -webkit-mask-image: url("images/doc.svg");
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    background-color: var(--dxbl-btn-color);
+}
+
+[b-phoh5pkf3n] .demos-icon {
+    mask-image: url("images/demos.svg");
+    -webkit-mask-image: url("images/demos.svg");
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    background-color: var(--dxbl-btn-color);
+}
+
+[b-phoh5pkf3n] .footer-button:hover .demos-icon {
+    background-color: var(--dxbl-btn-hover-color);
+}
+
+[b-phoh5pkf3n] .footer-button:hover .docs-icon {
+    background-color: var(--dxbl-btn-hover-color);
+}
+
+[b-phoh5pkf3n] .footer {
+    text-align: center;
+    gap: 0.5rem;
+    padding-bottom: 1.5rem;
+}
+
+#sidebar.expanded[b-phoh5pkf3n]  .layout-item {
+    display: block;
+}
+
+#sidebar.expanded[b-phoh5pkf3n]  .footer {
+    display: block;
+}
+
+@media (max-width: 768px) {
+    #sidebar[b-phoh5pkf3n] {
+        min-width: inherit;
+        max-width: inherit;
+    }
+
+        #sidebar.expanded[b-phoh5pkf3n] {
+            position: fixed;
+            width: 100%;
+            z-index: 3;
+        }
+
+            #sidebar.expanded[b-phoh5pkf3n]  .sidebar-header {
+                border-bottom: 1px solid var(--bs-white);
+            }
+
+            #sidebar.expanded .menu-button[b-phoh5pkf3n] {
+                background-image: url("images/close.svg");
+            }
+
+        #sidebar:not(.expanded)[b-phoh5pkf3n]  .dxbl-gridlayout-root {
+            gap: unset !important;
+        }
+
+    .logo[b-phoh5pkf3n] {
+        text-align: inherit;
+    }
+
+    [b-phoh5pkf3n] .menu-button-container {
+        display: block;
+    }
+
+    [b-phoh5pkf3n] .layout-item {
+        display: none;
+    }
+
+    [b-phoh5pkf3n] .footer {
+        display: none;
+    }
+}
+/* _content/AdminBlazor/Components/Pages/Index.razor.rz.scp.css */
+.welcome[b-8839u2xg35] {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.summary-panel[b-8839u2xg35] {
+    border-top: solid 1px #808080 !important;
+    text-align: center !important;
+    padding: 5px;
+    padding-top: 15px;
+    font-size: 1.2em;
+}
+
+.summary-item[b-8839u2xg35] {
+    border: solid 0px #ff0000 !important;
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    margin-right: 25px !important;
+}
+
+[b-8839u2xg35] .welcome-gridlayout {
+    margin: auto;
+    width: auto;
+    height: auto;
+}
+
+[b-8839u2xg35] .welcome-gridlayout .dxbl-gridlayout-root {
+    align-content: center;
+    justify-content: center;
+}
+
+[b-8839u2xg35] .welcome-title {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.welcome-title .welcome-title-header[b-8839u2xg35] {
+    font-size: 2.5rem;
+    font-weight: 600;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.welcome-title .welcome-title-content[b-8839u2xg35] {
+    font-size: 2rem;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+[b-8839u2xg35] .welcome-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+[b-8839u2xg35] .welcome-card {
+    width: 26.25rem;
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -2px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.2s;
+    border-radius: 1rem;
+    color: var(--bs-link-color-rgb);
+    gap: 1.5rem;
+    text-decoration: none;
+    position: relative;
+}
+
+    [b-8839u2xg35] .welcome-card:hover {
+        box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 8px 10px -6px rgba(0, 0, 0, 0.1);
+    }
+
+    [b-8839u2xg35] .welcome-card .welcome-card-img {
+        width: 6.5rem;
+        height: 6.5rem;
+    }
+
+    [b-8839u2xg35] .welcome-card .welcome-card-text {
+        font-size: 1.75rem;
+        font-weight: 600;
+        letter-spacing: 0em;
+        text-align: center;
+        text-decoration: unset;
+    }
+
+    [b-8839u2xg35] .icon-fill {
+        fill: var(--bs-primary);
+    }
+
+    [b-8839u2xg35] .welcome-card .welcome-card-back {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: var(--bs-body-color);
+        opacity: 0.05;
+        border-radius: 1rem;
+        z-index: -2;
+    }

@@ -1,0 +1,72 @@
+﻿@page "/"
+
+@using AdminBlazor.Data
+@using Facilitate.Libraries.Models;
+
+@attribute [StreamRendering(true)]
+@rendermode InteractiveServer
+@inject QuoteService QuoteService
+
+<PageTitle>Welcome to Facilitate Platform Administration</PageTitle>
+
+<div class="welcome">
+
+    <DxGridLayout CssClass="welcome-gridlayout" RowSpacing="3rem">
+        <Rows>
+            <DxGridLayoutRow Height="auto" Areas="header"></DxGridLayoutRow>
+            <DxGridLayoutRow Height="auto" Areas="cards"></DxGridLayoutRow>
+        </Rows>
+        <Items>
+            <DxGridLayoutItem Area="header" CssClass="welcome-title">
+                <Template>
+                    <div class="welcome-title-header">Welcome to Facilitate Platform Administration</div>
+                    <div class="summary-panel">
+                        <span class="summary-item">Leads: <b>@countLeads.ToString("N0")</b></span>
+                        <span class="summary-item">Opportunities: <b>@countOpportunities.ToString("N0")</b></span>
+                        <span class="summary-item">Customers: <b>@countCustomers.ToString("N0")</b></span>
+                        <span class="summary-item">Archives: <b>@countArchives.ToString("N0")</b></span>
+                    </div>
+
+                    <div class="welcome-title-content">
+                        <img src="images/Backgrounds/Contractors.webp" alt="Facilitate Platform Admin" style="width: 100%; height: auto;" />
+                        <br /><br />
+                        Dashboard charts coming...
+                    </div>
+                </Template>
+            </DxGridLayoutItem>
+        </Items>
+    </DxGridLayout>
+</div>
+
+@code {
+
+    public int countLeads = 0;
+    public int countOpportunities = 0;
+    public int countCustomers = 0;
+    public int countArchives = 0;
+
+    public string updateStatus = "Fetching ";
+
+    public Index()
+    {
+        var timer = new Timer(new TimerCallback(_ =>
+        {
+            GetLeadCount();
+
+            InvokeAsync(() =>
+            {
+                StateHasChanged();
+            });
+        }), null, 1000, 1000);
+    }
+
+    private IEnumerable<Quote>? quotes;
+
+    private void GetLeadCount()
+    {
+        countLeads = QuoteService.GetQuoteCount("New");
+        countOpportunities = QuoteService.GetQuoteCount("Opportunity");
+        countCustomers = QuoteService.GetQuoteCount("Customer");
+        countArchives = QuoteService.GetQuoteCount("Archive");
+    }
+}

@@ -1,0 +1,39 @@
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Api.exe
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Models\ResponseExamples\Address Only.json
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Models\ResponseExamples\Contact Form Completed.json
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Models\ResponseExamples\Product Requested.json
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Api.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Api.deps.json
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Api.runtimeconfig.json
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Api.pdb
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\AspNetCoreCompatibility.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\AWSSDK.Core.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\AWSSDK.SecurityToken.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\CookieManager.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\DnsClient.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\MongoDB.Bson.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\MongoDB.Driver.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\MongoDB.Driver.Core.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\MongoDB.Libmongocrypt.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.Schema.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\RestSharp.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\SharpCompress.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Snappier.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\ZstdSharp.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\runtimes\linux\native\libmongocrypt.so
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\runtimes\osx\native\libmongocrypt.dylib
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\runtimes\win\native\mongocrypt.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Libraries.dll
+D:\Development Repos\Facilitate\Api\obj\Release\net8.0\PubTmp\Out\Libraries.pdb

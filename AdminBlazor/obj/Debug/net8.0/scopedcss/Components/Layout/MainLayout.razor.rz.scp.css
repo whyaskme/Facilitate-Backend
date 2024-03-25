@@ -1,0 +1,29 @@
+.page[b-dhxbd265eb] {
+    height: 100%;
+    font-family: var(--bs-font-sans-serif);
+}
+
+[b-dhxbd265eb] .icon-back {
+    -webkit-mask-image: url("images/back.svg");
+    mask-image: url("images/back.svg");
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-color: var(--dxbl-btn-color);
+}
+
+[b-dhxbd265eb] .content {
+    overflow: auto;
+}
+
+[b-dhxbd265eb] .back-button:hover .icon-back {
+    background-color: var(--dxbl-btn-hover-color);
+}
+
+@media (max-width: 768px) {
+    [b-dhxbd265eb] .layout-sidebar {
+        grid-area: header / header / header / header !important;
+    }
+}

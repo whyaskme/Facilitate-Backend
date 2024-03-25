@@ -1,0 +1,13 @@
+D:\Development Repos\Facilitate\Libraries\bin\Debug\net8.0\Libraries.deps.json
+D:\Development Repos\Facilitate\Libraries\bin\Debug\net8.0\Libraries.dll
+D:\Development Repos\Facilitate\Libraries\bin\Debug\net8.0\Libraries.pdb
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.csproj.AssemblyReference.cache
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfoInputs.cache
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.AssemblyInfo.cs
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.csproj.CoreCompileInputs.cache
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.sourcelink.json
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.dll
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\refint\Libraries.dll
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\Libraries.pdb
+D:\Development Repos\Facilitate\Libraries\obj\Debug\net8.0\ref\Libraries.dll

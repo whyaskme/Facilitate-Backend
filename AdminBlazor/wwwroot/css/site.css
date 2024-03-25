@@ -1,0 +1,218 @@
+@import url('open.iconic/font/css/open-iconic-bootstrap.min.css');
+
+html, body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+.event-history-container {
+    border-bottom: solid 0px #c0c0c0 !important;
+    width: 100% !important;
+    margin-bottom: 25px !important;
+    padding-bottom: 25px !important;
+}
+
+.event-date {
+    border: solid 1px #ff0000 !important;
+    width: 15% !important;
+    min-width: 15% !important;
+    max-width: 15% !important;
+    text-align: right !important;
+    font-style: italic;
+}
+
+.event-details {
+    border: solid 1px #ff0000 !important;
+/*    width: 85% !important;
+    min-width: 85% !important;
+    max-width: 85% !important;*/
+}
+
+.strikethru {
+    text-decoration: line-through;
+    color: #c0c0c0 !important;
+}
+
+table {
+    width: 100% !important;
+}
+
+td,
+table:hover {
+    cursor: default;
+}
+
+.table-spacer {
+    border: dashed 1px #c0c0c0 !important;
+    border-collapse: collapse !important;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.dxbl-grid-expand-button
+{
+    border: solid 1px #ff0000 !important;
+    visibility: hidden !important;
+}
+
+td {
+    padding: 5px;
+    padding-left: 10px;
+}
+
+label {
+    font-weight: normal;
+    font-style: italic;
+    color: #808080 !important;
+    margin-right: 5px;
+}
+
+label:after {
+    content: ':';
+}
+
+h6 {
+    border-bottom: dashed 0px #808080 !important;
+    font-size: 1.3em;
+    font-weight: normal;
+    font-style: normal;
+    color: #808080 !important;
+    margin-bottom: 0px !important;
+}
+
+.quote-detail-controls-container {
+    padding-top: 25px !important;
+    text-align: center !important;
+}
+
+.dxbl-grid-detail-cell {
+    border: solid 1px #808080 !important;
+    background-color: #f7f6f6 !important;
+}
+
+.dxbl-grid-detail-cell:hover {
+    cursor: default;
+}
+
+.quote-details-panel {
+    width: auto !important;
+}
+
+.quote-detail-container {
+    border: solid 0px #eee !important;
+}
+
+.detail-item {
+    border-right: solid 0px #eee !important;
+    margin-right: 25px !important;
+    font-weight: normal !important;
+}
+
+.btn-primary:disabled {
+    border: solid 1px #dad7d7 !important;
+    background-color: #dad7d7 !important;
+}
+
+.container-action-buttons-show {
+    text-align: center !important;
+    visibility: visible !important;
+    padding-top: 50px !important;
+}
+
+.container-action-buttons-hide {
+    text-align: center !important;
+    visibility: hidden !important;
+}
+
+.message-normal {
+    color: #000000 !important;
+}
+
+.message-warning {
+    color: #b10505 !important;
+}
+
+#update-status {
+    padding-bottom: 15px !important;
+    font-size: 1.0em;
+}
+
+.btn-refresh-active {
+    background-color: #045e20 !important;
+    color: #fff !important;
+    margin-right: 25px !important;
+}
+
+.btn-refresh-inactive {
+    background-color: #b10505 !important;
+    color: #fff !important;
+    margin-right: 25px !important;
+}
+
+/*.dxbl-text-edit-input {
+    border: solid 1px #808080 !important;
+    background-color: #fff !important;
+}*/
+
+.dxbl-text-edit-input:focus {
+    background-color: #fff !important;
+}
+
+tr:hover {
+    background-color: #f7f6f6 !important;
+    cursor: pointer !important;
+}
+
+.summary-panel {
+    border-top: solid 1px #808080 !important;
+    text-align: center !important;
+    padding: 5px;
+    padding-top: 15px;
+    font-size: 1.2em;
+}
+
+.summary-item {
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+    margin-right: 25px !important;
+}
+
+.valid.modified:not([type=checkbox]) {
+    outline: 1px solid #26b050;
+}
+
+.invalid {
+    outline: 1px solid red;
+}
+
+.validation-message {
+    color: red;
+}
+
+.button-link {
+    text-decoration: unset;
+}
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+#blazor-error-ui .dismiss {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}

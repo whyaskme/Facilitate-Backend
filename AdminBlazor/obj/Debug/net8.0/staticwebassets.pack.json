@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AdminBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\FONT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\FONT-LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\ICON-LICENSE.txt",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\ICON-LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\README.md"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\open.iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open.iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Backgrounds\\Contractors.webp",
+      "PackagePath": "staticwebassets\\images\\Backgrounds\\Contractors.webp"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Favicon\\Favicon Original.ico",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Favicon Original.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Favicon\\Favicon Transparent.ico",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Favicon Transparent.ico"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Favicon\\Wordpress Transparent.png",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Wordpress Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Favicon\\Wordpress.png",
+      "PackagePath": "staticwebassets\\images\\Favicon\\Wordpress.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Icons\\Magnifying Glass.jpg",
+      "PackagePath": "staticwebassets\\images\\Icons\\Magnifying Glass.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Icons\\Magnifying Glass.png",
+      "PackagePath": "staticwebassets\\images\\Icons\\Magnifying Glass.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Logo.jpg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Logo.jpg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\Facilitate Logo.psd",
+      "PackagePath": "staticwebassets\\images\\Logos\\Facilitate Logo.psd"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\Grayscale Transparent.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Grayscale Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\Original Logo Symbol.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Original Logo Symbol.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\Original Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Original Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\Transparent Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\Transparent Logo.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\White Transparent - Small.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\White Transparent - Small.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\Logos\\White Transparent.png",
+      "PackagePath": "staticwebassets\\images\\Logos\\White Transparent.png"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\back.svg",
+      "PackagePath": "staticwebassets\\images\\back.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\cards.svg",
+      "PackagePath": "staticwebassets\\images\\cards.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\close.svg",
+      "PackagePath": "staticwebassets\\images\\close.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\counter.svg",
+      "PackagePath": "staticwebassets\\images\\counter.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\demos.svg",
+      "PackagePath": "staticwebassets\\images\\demos.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\doc.svg",
+      "PackagePath": "staticwebassets\\images\\doc.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\home.svg",
+      "PackagePath": "staticwebassets\\images\\home.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\menu.svg",
+      "PackagePath": "staticwebassets\\images\\menu.svg"
+    },
+    {
+      "Id": "D:\\Development Repos\\Facilitate\\AdminBlazor\\wwwroot\\images\\weather.svg",
+      "PackagePath": "staticwebassets\\images\\weather.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdminBlazor.props",
+      "PackagePath": "build\\AdminBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminBlazor.props",
+      "PackagePath": "buildMultiTargeting\\AdminBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdminBlazor.props",
+      "PackagePath": "buildTransitive\\AdminBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
