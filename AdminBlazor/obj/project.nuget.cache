@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X/kJb4FFxuZvm2fG2k+rEDCWWOG/G0c0Hgsm1BeBjOQfeqHYhNS2p6X1St/nTPTVq8UBekrPItPXXmOtugoP0w==",
+  "dgSpecHash": "6GzrNxjKpsjZktYYNjmnTn+4wjy/Co381wVUko+v52a3xoLJHLtiiVREpBTMSwgdavnmQZgVGIhp6IlPodQnIw==",
   "success": true,
-  "projectFilePath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\AdminBlazor.csproj",
+  "projectFilePath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\Facilitate.Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\aspnetcore.identity.mongo\\8.3.3\\aspnetcore.identity.mongo.8.3.3.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",

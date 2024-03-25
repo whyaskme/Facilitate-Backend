@@ -2759,9 +2759,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\AdminBlazor.csproj",
-      "projectName": "AdminBlazor",
-      "projectPath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\AdminBlazor.csproj",
+      "projectUniqueName": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\Facilitate.Backend.csproj",
+      "projectName": "Facilitate.Backend",
+      "projectPath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\Facilitate.Backend.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
       "outputPath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\obj\\",
       "projectStyle": "PackageReference",

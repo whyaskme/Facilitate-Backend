@@ -92,3 +92,10 @@ D:\Development Repos\Facilitate\AdminBlazor\bin\Debug\net8.0\Microsoft.EntityFra
 D:\Development Repos\Facilitate\AdminBlazor\bin\Debug\net8.0\MaxMind.Db.dll
 D:\Development Repos\Facilitate\AdminBlazor\bin\Debug\net8.0\MaxMind.GeoIP2.dll
 D:\Development Repos\Facilitate\AdminBlazor\bin\Debug\net8.0\Json.Net.dll
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\AdminBlazor.csproj.AssemblyReference.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\AdminBlazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\AdminBlazor.AssemblyInfoInputs.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\AdminBlazor.AssemblyInfo.cs
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\AdminBlazor.csproj.CoreCompileInputs.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\AdminBlazor.MvcApplicationPartsAssemblyInfo.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\AdminBlazor.sourcelink.json

@@ -1,0 +1,7 @@
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\Facilitate.Backend.csproj.AssemblyReference.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\Facilitate.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\Facilitate.Backend.AssemblyInfoInputs.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\Facilitate.Backend.AssemblyInfo.cs
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\Facilitate.Backend.csproj.CoreCompileInputs.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\Facilitate.Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Development Repos\Facilitate-Backend\AdminBlazor\obj\Debug\net8.0\Facilitate.Backend.sourcelink.json

@@ -3,7 +3,7 @@
 @using AdminBlazor.Data
 @using DevExpress.Data
 @using DevExpress.Data.Linq
-@using Facilitate.Libraries.Models;
+@using Facilitate.Libraries.Models
 @using MongoDB.Bson;
 
 @using Json.Net;
@@ -14,8 +14,6 @@
 
 <PageTitle>Opportunities</PageTitle>
 <h1>@updateStatus Opportunities <span id="update-status" class="@StatusClass">@RefreshStatus</span></h1>
-
-@* <h3>IP Address: <span class="">@SubmissionUserIP</span></h3> *@
 
 <script>
   window.getIpAddress = () => {

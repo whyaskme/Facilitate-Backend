@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\Facilitate.Backend.csproj": {}
+  },
+  "projects": {
+    "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\Facilitate.Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\Facilitate.Backend.csproj",
+        "projectName": "Facilitate.Backend",
+        "projectPath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\Facilitate.Backend.csproj",
+        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
+        "outputPath": "D:\\Development Repos\\Facilitate-Backend\\AdminBlazor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.Identity.Mongo": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "DevExpress.Blazor": {
+              "target": "Package",
+              "version": "[23.2.4, )"
+            },
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.33, )"
+            },
+            "MaxMind.Db": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "MaxMind.GeoIP2": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "MongoDB.Driver.GridFS": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "MongoDB.Libmongocrypt": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

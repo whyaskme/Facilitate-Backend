@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\josep\.nuget\packages\;D:\Program Files\DevExpress 23.2\Components\Offline Packages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.9.2</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\josep\.nuget\packages\" />
+    <SourceRoot Include="D:\Program Files\DevExpress 23.2\Components\Offline Packages\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)mongodb.libmongocrypt\1.8.2\contentFiles\any\netstandard2.1\libmongocrypt.dylib" Condition="Exists('$(NuGetPackageRoot)mongodb.libmongocrypt\1.8.2\contentFiles\any\netstandard2.1\libmongocrypt.dylib')">
+      <NuGetPackageId>MongoDB.Libmongocrypt</NuGetPackageId>
+      <NuGetPackageVersion>1.8.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>libmongocrypt.dylib</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)mongodb.libmongocrypt\1.8.2\contentFiles\any\netstandard2.1\libmongocrypt.so" Condition="Exists('$(NuGetPackageRoot)mongodb.libmongocrypt\1.8.2\contentFiles\any\netstandard2.1\libmongocrypt.so')">
+      <NuGetPackageId>MongoDB.Libmongocrypt</NuGetPackageId>
+      <NuGetPackageVersion>1.8.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>libmongocrypt.so</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)mongodb.libmongocrypt\1.8.2\contentFiles\any\netstandard2.1\mongocrypt.dll" Condition="Exists('$(NuGetPackageRoot)mongodb.libmongocrypt\1.8.2\contentFiles\any\netstandard2.1\mongocrypt.dll')">
+      <NuGetPackageId>MongoDB.Libmongocrypt</NuGetPackageId>
+      <NuGetPackageVersion>1.8.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>mongocrypt.dll</Link>
+    </Content>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.3\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\8.0.3\buildTransitive\net8.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="D:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor.themes\23.2.4\buildTransitive\DevExpress.Blazor.Themes.props" Condition="Exists('D:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor.themes\23.2.4\buildTransitive\DevExpress.Blazor.Themes.props')" />
+    <Import Project="D:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor\23.2.4\buildTransitive\net5.0\DevExpress.Blazor.props" Condition="Exists('D:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.blazor\23.2.4\buildTransitive\net5.0\DevExpress.Blazor.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\josep\.nuget\packages\awssdk.core\3.7.100.14</PkgAWSSDK_Core>
+    <PkgAWSSDK_SecurityToken Condition=" '$(PkgAWSSDK_SecurityToken)' == '' ">C:\Users\josep\.nuget\packages\awssdk.securitytoken\3.7.100.14</PkgAWSSDK_SecurityToken>
+    <PkgDevExpress_Data Condition=" '$(PkgDevExpress_Data)' == '' ">D:\Program Files\DevExpress 23.2\Components\Offline Packages\devexpress.data\23.2.4</PkgDevExpress_Data>
+  </PropertyGroup>
+</Project>
